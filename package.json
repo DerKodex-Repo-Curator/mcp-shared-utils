@@ -1,0 +1,10 @@
+{
+  "name": "mcp-shared-utils",
+  "version": "1.0.0",
+  "description": "Shared utilities for MCP tools including metatags",
+  "main": "metatags.js",
+  "type": "commonjs",
+  "exports": {
+    "./metatags": "./metatags.js"
+  }
+}
